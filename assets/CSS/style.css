@@ -104,7 +104,24 @@ body {
         }
     }
 
+    #transform-world {
+        height: 45vh;
+        background-image: url("../images/woman-code.png");
+        background-size: cover;
+        background-attachment: fixed;
+        border-top: 1px solid #33A8DB80;
+        border-bottom: 1px solid #33A8DB80;
 
+        p {
+            padding: 9rem;
+            color: white;
+            text-shadow: 3px 2px #33A8DB;
+            text-transform: lowercase;
+            font-size: 2.5rem;
+            font-weight: 900;
+            max-width: 35%;
+        }
+    }
 
 
 
