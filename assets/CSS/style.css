@@ -123,7 +123,33 @@ body {
         }
     }
 
+    #professional-challenges {
+        width: 52%;
+        margin: auto;
+        text-align: center;
 
+        h2 {
+            color: #33A8DB;
+            font-size: 2rem;
+            text-transform: uppercase;
+            font-weight: 700;
+            letter-spacing: 4px;
+            margin-top: 3rem;
+        }
+
+        img {
+            margin: 2rem 0;
+        }
+
+        p {
+            color: white;
+            font-size: 1rem;
+            padding: 0 6rem;
+            margin-bottom: 3rem;
+        }
+    }
+
+    
 
 
 
